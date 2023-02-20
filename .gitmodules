@@ -1,0 +1,3 @@
+[submodule "OpenLicenseModule"]
+	path = OpenLicenseModule
+	url = git@github.com:xnavrat4/OpenLicenseModule.git
